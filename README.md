@@ -1,3 +1,3 @@
-# Site-em-Html-e-css.
+# Site-em-html-e-css.
 
 ![Screenshot](tela.png)
